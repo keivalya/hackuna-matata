@@ -1,0 +1,29 @@
+.header {
+  background-color: #202b42;
+}
+
+.header__container {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header__name {
+  cursor: pointer;
+}
+
+.header__links {
+  list-style: none;
+  display: flex;
+}
+
+.header__links .header__link {
+  color: rgb(201, 201, 201);
+  text-decoration: none;
+  padding: 1rem;
+}
+.header__links .header__link:hover {
+  color: rgb(255, 255, 255);
+}

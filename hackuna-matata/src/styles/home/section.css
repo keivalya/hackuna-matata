@@ -1,0 +1,18 @@
+.section {
+  margin: 10% 10%;
+}
+.section__withBackground {
+  margin: 10% 0;
+}
+.section h1 {
+  font-size: 400%;
+}
+.section p {
+  color: #e2f6fcea;
+  margin: 5% 25%;
+  width: 50%;
+  font-size: larger;
+}
+.section__withBackground p {
+  margin: 5% 0;
+}
